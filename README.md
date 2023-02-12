@@ -1,2 +1,2 @@
 # Projects.github.io
-ML project
+Data Analysis and Machine Learning
