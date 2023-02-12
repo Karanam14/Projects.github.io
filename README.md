@@ -1,2 +1,2 @@
 # Projects.github.io
-Data Analysis and Machine Learning
+Deep Learning, Machine Learning and Data Analytics
